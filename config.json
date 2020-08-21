@@ -1,0 +1,19 @@
+{
+    "token" : "1383087994:AAHGCykiQWGt2-Ftrm_b9AH94kI2FdKgnkk",
+    "max_mmr" : 7500,
+    "promocode10" : ["Hi", "Bye"],
+    "promocode20" : ["Py", "Ly"],
+    "promocode30" : ["Dy", "Rai"],
+    "price_modificators" : {
+        "party_boost" : 30,
+        "stream" : 10,
+        "spec_heroes" : 15,
+        "serv_NA" : 30,
+        "serv_SEA" : 40,
+        "promocode10" : 10,
+        "promocode20" : 20,
+        "promocode30" : 30
+    },
+    "coach_rub" : 600,
+    "coach_usd": 14
+}
