@@ -39,7 +39,7 @@ class BoostCalc {
         result = parseFloat(result).toFixed(2);
         cleanResult = parseFloat(cleanResult).toFixed(2);
 
-        return { result : result, cleanResult: cleanRes, promocodePercent: promocodePercent };
+        return { result : result, cleanResult: cleanResult, promocodePercent: promocodePercent };
     }
 
     getPrice(mmr, currency) {
