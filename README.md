@@ -1,5 +1,5 @@
 # Telegram-bot-boost-calculator
-Telegram Bot for price calculation. Boost, calibration and coaching. Build using Telegraf
+Telegram Bot for price calculation. Boost, calibration and coaching. Created using Telegraf
 
 
 # How to start:
